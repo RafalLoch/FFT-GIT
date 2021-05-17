@@ -31,3 +31,9 @@ Settings:
 ```
 
 ## Windows Terminal
+Install and setup
+> https://docs.microsoft.com/en-us/windows/terminal/get-started
+> https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup
+
+Oh my Posh
+> https://ohmyposh.dev/docs/
